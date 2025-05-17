@@ -1,6 +1,6 @@
 # Expo Speech/Text Translator
 
-This is a React Native app built with Expo that allows users to enter or paste English text, translate it to major European and some African languages, and listen to the translated speech using text-to-speech.
+This is a React Native app built with Expo that allows users to speak in English or paste English text, translate it to major European and some African languages, and listen to the translated speech using text-to-speech.
 
 ## ✨ Features
 
